@@ -1,0 +1,14 @@
+
+  canvas {
+    border: 1px solid black;
+  }
+
+  .sat{
+    position: absolute;
+    top: 30px;
+    right: 30px; 
+    width: 100px; 
+    height: 100px; 
+    z-index: 5;
+    font-size: 30px;
+  }
