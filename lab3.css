@@ -1,8 +1,9 @@
 
+/*css file za canvas definira njegovu crnu granicu*/
   canvas {
     border: 1px solid black;
   }
-
+/*css file za sat definira njegov položaj i font*/
   .sat{
     position: absolute;
     top: 30px;
